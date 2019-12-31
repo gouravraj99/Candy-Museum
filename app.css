@@ -1,0 +1,12 @@
+body{
+	background-color: pink;
+	font-family: 'Ubuntu', sans-serif;
+	font-style: bold;
+}
+
+
+.image{
+	width:100%;
+	height:500px;
+}
+
